@@ -2,7 +2,7 @@
 
 
 
-This repository contains the code used for analysis in Insanally, et al 2017. 
+This repository contains the code used for analysis in Insanally, et al 2019, "Spike-timing-dependent ensemble encoding by non-classically responsive cortical neurons". eLife, 2019. http://dx.doi.org/10.7554/eLife.42409
 
 ## Requirements
 
